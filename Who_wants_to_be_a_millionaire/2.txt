@@ -1,0 +1,18 @@
+[
+{
+"pit": "Tko je dragi?",
+"a": "picka",
+"b": "legenda",
+"c": "conjek",
+"d": "prikriveni cevap",
+"t": "d"
+},
+{
+"pit": "rtzurt",
+"a": "rtrtzu",
+"b": "urur",
+"c": "ururururu",
+"d": "rtzu",
+"t": "b"
+}
+]
