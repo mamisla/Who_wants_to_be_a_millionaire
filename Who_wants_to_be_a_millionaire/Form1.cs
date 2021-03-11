@@ -15,9 +15,11 @@ using System.IO;
 
 namespace Who_wants_to_be_a_millionaire
 {
+    
    
     public partial class Form1 : Form
     {
+        
         public string toc = "";
         public int trenp = 1;
         public static string jsonString1 = File.ReadAllText("1.txt");
@@ -66,8 +68,72 @@ namespace Who_wants_to_be_a_millionaire
             potrosen_joker_50.Visible = false;
             potrosen_joker_zovi.Visible = false;
             potrosen_joker_publika.Visible = false;
+
+            splitContainer1.SplitterDistance = 800;
+            splitContainer1.BackColor = Color.Black;
+
+            obojaj();
+
+            
+
         }
 
+        private void obojaj()
+        {
+            flowLayoutPanel1.Controls.Clear();
+            var j = 15;
+
+            for (int i = 0; i < 15; ++i)
+            {
+                var kontrola = new TextBox()
+                {
+                    Text = j.ToString()
+
+                };
+                kontrola.Margin = new Padding(0, 1, 0, 1);
+                kontrola.Width = 230;
+                kontrola.Height = 100;
+                kontrola.ForeColor = Color.Orange;
+                kontrola.BackColor = Color.Black;
+                kontrola.Font = new Font(Font.FontFamily, 11);
+                kontrola.ReadOnly = true;
+                kontrola.BorderStyle = System.Windows.Forms.BorderStyle.None;
+                --j;
+
+                flowLayoutPanel1.Controls.Add(kontrola);
+
+
+            }
+            flowLayoutPanel1.Controls[0].Text += "    " + "1.000.000 KN";
+            flowLayoutPanel1.Controls[0].ForeColor = Color.WhiteSmoke;
+            flowLayoutPanel1.Controls[1].Text += "    " + "500.000 KN";
+            flowLayoutPanel1.Controls[2].Text += "    " + "250.000 KN";
+            flowLayoutPanel1.Controls[3].Text += "    " + "125.000 KN";
+            flowLayoutPanel1.Controls[4].Text += "    " + "64.000 KN";
+            flowLayoutPanel1.Controls[5].Text += "    " + "32.000 KN";
+            flowLayoutPanel1.Controls[5].ForeColor = Color.WhiteSmoke;
+            flowLayoutPanel1.Controls[6].Text += "    " + "16.000 KN";
+            flowLayoutPanel1.Controls[7].Text += "    " + "8.000 KN";
+            flowLayoutPanel1.Controls[8].Text += "    " + "4.000 KN";
+            flowLayoutPanel1.Controls[9].Text += "    " + "2.000 KN";
+            flowLayoutPanel1.Controls[10].Text += "    " + "1.000 KN";
+            flowLayoutPanel1.Controls[10].ForeColor = Color.WhiteSmoke;
+            flowLayoutPanel1.Controls[11].Text += "    " + "500 KN";
+            flowLayoutPanel1.Controls[12].Text += "    " + "300 KN";
+            flowLayoutPanel1.Controls[13].Text += "    " + "200 KN";
+            flowLayoutPanel1.Controls[14].Text += "    " + "100 KN";
+            flowLayoutPanel1.Controls[14].ForeColor = Color.WhiteSmoke;
+
+
+            if (redni.Text.ToString() == "1")
+            {
+                flowLayoutPanel1.Controls[14].BackColor = Color.Orange;
+                flowLayoutPanel1.Controls[14].ForeColor = Color.Black;
+            }
+
+
+
+        }
 
 
         private void pit_Click(object sender, EventArgs e)
@@ -97,6 +163,8 @@ namespace Who_wants_to_be_a_millionaire
             {
                 obradi_krivi();
             }
+
+           
         }
 
         private void c_Click(object sender, EventArgs e)
@@ -195,6 +263,10 @@ namespace Who_wants_to_be_a_millionaire
 
             this.redni.Text = trenp.ToString();
 
+
+            obojaj();
+            flowLayoutPanel1.Controls[15 - int.Parse(redni.Text)].BackColor = Color.Orange;
+            flowLayoutPanel1.Controls[15 - int.Parse(redni.Text)].ForeColor = Color.Black;
         }
 
         public void obradi_krivi()
@@ -218,6 +290,7 @@ namespace Who_wants_to_be_a_millionaire
             potrosen_joker_publika.Visible = false;
 
             this.redni.Text = trenp.ToString();
+            obojaj();
         }
 
         private void joker50_Click(object sender, EventArgs e)
@@ -451,6 +524,34 @@ namespace Who_wants_to_be_a_millionaire
 
             var publika = new Publika(a,b,c,d);
             publika.Show();
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+        }
+
+        private void splitContainer1_Panel1_Paint(object sender, PaintEventArgs e)
+        {
+        }
+
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void panela_txt_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void flowLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }
