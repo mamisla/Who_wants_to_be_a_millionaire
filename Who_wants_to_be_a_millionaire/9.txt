@@ -1,0 +1,83 @@
+[
+{
+"pit": "Od čega je izrađivan papirus na kojem su pisali drevni Egipćani?",
+"a": "od kože goveda",
+"b": "od močvarne biljke",
+"c": "od drveta",
+"d": "od svile",
+"t": "b"
+},
+{
+"pit": "Koja od sljedeće četiri rijeke nije pritok Save?",
+"a": "Drava",
+"b": "Lonja",
+"c": "Krapina",
+"d": "Kupa",
+"t": "a"
+},
+{
+"pit": "Gregor Mandel postavio je temelje genetike uzgajajući...",
+"a": "lubenice",
+"b": "gljive",
+"c": "grašak",
+"d": "mrkvu",
+"t": "c"
+},
+{
+"pit": "Legendarni kralj Artur prezivao se...",
+"a": "Penartur",
+"b": "Penergor",
+"c": "Pendragon",
+"d": "Penrishich",
+"t": "c"
+},
+{
+"pit": "Fakiri su poznati po tome što ponekad vole ležati na...",
+"a": "mahovini",
+"b": "čavlima",
+"c": "jajima",
+"d": "koprivama",
+"t": "b"
+},
+{
+"pit": "Planeta koja se oko Sunca okreće u smjeru suprotnom od svih ostalih je...?",
+"a": "Mars",
+"b": "Jupiter",
+"c": "Zemlja",
+"d": "Venera",
+"t": "d"
+},
+{
+"pit": "Kojeg su hrvatskog kneza Mlečani nazvali "najstrašnijim knezom Slavena"?",
+"a": "Branimira",
+"b": "Tomislava",
+"c": "Domagoja",
+"d": "Zdeslava",
+"t": "c"
+},
+{
+"pit": "Poznati agenti iz serije"Dosjei X" zvali su se...",
+"a": "Dana Scully i Fox Mulder",
+"b": "Dana Mulder i Fox Scully",
+"c": "Dana Fox i Scully Muldeer",
+"d": "Fox Dana i Mulder Scully",
+"t": "a"
+},
+{
+"pit": Iz kojeg grada potječe poznati hrvatski skladatelj Ivan pl. Zajc, autor najpoznatije hrvatske opere "Nikola Šubić Zrinski"?",
+"a": "Splita",
+"b": "Varaždina",
+"c": "Đakova",
+"d": "Rijeke",
+"t": "d"
+},
+{
+"pit": "Kojoj je bojni geslo "In hoc signo vinces"?",
+"a": "Gromovi",
+"b": "Pauci",
+"c": "Tigrovi",
+"d": "Pume",
+"t": "b"
+}
+]
+

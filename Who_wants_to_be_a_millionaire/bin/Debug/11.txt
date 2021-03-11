@@ -1,0 +1,51 @@
+[
+{
+"pit": "U utvrdama iznad kojega su grada živjeli Čeh, Leh i Meh, legendarni utemeljitelji Češke, Poljske i Rusije?",
+"a": "Daruvara",
+"b": "Krapine",
+"c": "Siska",
+"d": "Varaždina",
+"t": "b"
+},
+{
+"pit": "Godine 1901. dobili smo prvih 6 nobelovaca: Nizozemca, Švicarca, dva Francuza i dva...",
+"a": "Norvežanina",
+"b": "Nijemca",
+"c": "Talijana",
+"d": "Danca",
+"t": "b"
+},
+{
+"pit": "Tko je u četiri oka filozofirao s ruskom caricom Katarinom Velikom?",
+"a": "Rene Descartes",
+"b": "Denis Diderot",
+"c": "Gottfried Leibniz",
+"d": "Blaise Pascal",
+"t": "b"
+},
+{
+"pit": "Stanovnici koji žive oko NE Krško imaju uputstva za upotrebu tableta...",
+"a": "kalcijeva fosfida",
+"b": "kalijeva jodida",
+"c": "magnezijeva stearata",
+"d": "natrijeva cijanida",
+"t": "b"
+},
+{
+"pit": "Prvih osam predsjednika koje je države rođeno u SAD-u?",
+"a": "Liberije",
+"b": "Gambije",
+"c": "Nigerije",
+"d": "Sijera Leonea",
+"t": "a"
+},
+{
+"pit": "Protagonisti kojeg romana bombardiraju Bolognu, Avignon, Orvieto i Parmu?",
+"a": "Klaonica 5",
+"b": "Mila 18",
+"c": "Kvaka 22",
+"d": "Fahrenheit 451",
+"t": "c"
+}
+]
+

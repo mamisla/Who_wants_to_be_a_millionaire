@@ -1,0 +1,83 @@
+[
+{
+"pit": "Najčešće korišten lijek 20. stoljeća, aspirin, po svom je kemijskom sastavu...?",
+"a": "acetil-salicilna kiselina",
+"b": "alaninguaninska kiselina",
+"c": "acetisal-limunska kiselina",
+"d": "alergo-imunalska kiselina",
+"t": "a"
+},
+{
+"pit": "Koje godine je Bela IV. Gradecu dodijelio bulu proglasivši ga slobodnim kraljevskim gradom?",
+"a": "1042. godine",
+"b": "1342. godine",
+"c": "1242. godine",
+"d": "1842. godine",
+"t": "c"
+},
+{
+"pit": "Koja je vrsta tjestenine izgledom najsličnija špagetima?",
+"a": "linguine",
+"b": "farfalle",
+"c": "penne",
+"d": "rigatone",
+"t": "a"
+},
+{
+"pit": "Koji je "starodrevni grad", kako ga opisuje Eugen Kumičić, "od grada Karlovca tri sata hoda put sjeverozapada"?",
+"a": "Nehaj",
+"b": "Klis",
+"c": "Ozalj",
+"d": "Medvedgrad",
+"t": "c"
+},
+{
+"pit": "Što zajedno čine mravinac, timijan, ružmarin, majoran i čubar?",
+"a": "akvitanijske trave",
+"b": "burgundske trave",
+"c": "normandijske trave",
+"d": "provansalske trave",
+"t": "d"
+},
+{
+"pit": "Kad bi talijanska čizma slomila svoju "petu", koji bi grad "završio" na otoku?",
+"a": "Perugia",
+"b": "Lecce",
+"c": "Messina",
+"d": "Pescara",
+"t": "b"
+},
+{
+"pit": "7 AU + 1 RG + 5 W + 3 US = ",
+"a": "Novak Đoković",
+"b": "Pete Sampras",
+"c": "Rafael Nadal",
+"d": "Roger Federer",
+"t": "a"
+},
+{
+"pit": "Kojom su rimom sročeni stihovi hrvatske himne?",
+"a": "nagomilanom",
+"b": "obgrljenom",
+"c": "parnom",
+"d": "unakrsnom",
+"t": "d"
+},
+{
+"pit": "Na kojem se kontinentu nalazi prva država po abecednom redu?",
+"a": "u Europi",
+"b": "u Africi",
+"c": "u Aziji",
+"d": "u Južnoj Americi",
+"t": "c"
+},
+{
+"pit": "Koji film počinje okršajem Domorodaca i Mrtvih zečeva u kojem potonji izvuku deblji kraj?",
+"a": "Ratnici podzemlja",
+"b": "Boje nasilja",
+"c": "Generacija X",
+"d": "Bande New Yorka",
+"t": "d"
+}
+]
+

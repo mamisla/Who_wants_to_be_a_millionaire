@@ -1,0 +1,83 @@
+[
+{
+"pit": "Na je jednakih dijelova od po 20 minuta podijeljena hokejaška utakmica?",
+"a": "4",
+"b": "2",
+"c": "3",
+"d": "5",
+"t": "c"
+},
+{
+"pit": "Koje su godine održane prve olimpijeske igre?",
+"a": "776. godine",
+"b": "776. pr. Kr.",
+"c": "1. godine",
+"d": "1000 godine",
+"t": "b"
+},
+{
+"pit": "Koja od navedenih ptica nije selica?",
+"a": "lastavica",
+"b": "roda",
+"c": "čvorak",
+"d": "crni kos",
+"t": "d"
+},
+{
+"pit": "Pod kojim nadimkom je poznat hrvatski tenisač Goran Ivanišević?",
+"a": "Zec",
+"b": "Glista",
+"c": "Splićo",
+"d": "Milijunaš",
+"t": "a"
+},
+{
+"pit": "Koliko traje Zemljina revolucija?",
+"a": "24 mjeseca",
+"b": "godinu dana",
+"c": "24 sata",
+"d": "12 sati",
+"t": "b"
+},
+{
+"pit": "Koja su dva planeta, barem po udaljenosti od Sunca, prvi Zemljini "susjedi"?",
+"a": "Venera i Jupiter",
+"b": "Merkur i Mars",
+"c": "Venera i Mars",
+"d": "Jupiter i Uran",
+"t": "c"
+},
+{
+"pit": "Ples cancan (kankan) nastao je u...",
+"a": "Belgiji",
+"b": "Francuskoj",
+"c": "Njemačkoj",
+"d": "Indiji",
+"t": "b"
+},
+{
+"pit": "Otok nije...",
+"a": "Brač",
+"b": "Šolta",
+"c": "Kali",
+"d": "Jabuka",
+"t": "c"
+},
+{
+"pit": "Manduševac je...",
+"a": "mjesto u Hrvatskom zagorju",
+"b": "zdenac na Trgu bana Jelačića",
+"c": "crkva u Ninu",
+"d": "izvor mineralne vode u Istri",
+"t": "b"
+},
+{
+"pit": "Naprava za ugađanje glazbenih instrumenata naziva se...",
+"a": "klavirska žlica",
+"b": "glazbena viljuška",
+"c": "raspjevana vilica",
+"d": "muzikalna žličica",
+"t": "b"
+}
+]
+

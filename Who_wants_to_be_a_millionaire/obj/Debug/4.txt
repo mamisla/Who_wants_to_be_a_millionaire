@@ -1,0 +1,83 @@
+[
+{
+"pit": "Što je Tolkien ovako podijelio: tri vilin-kraljevima, sedam patuljcima, devet ljudima i jedan Caru Mraka?",
+"a": "ogrlice",
+"b": "narukvice",
+"c": "naušnice",
+"d": "prstenove",
+"t": "d"
+},
+{
+"pit": "U koji je izraz Gundulić sažeo stihove "tko bi gori, eto je doli, a tko doli gore ustaje"?",
+"a": "najslabija karika",
+"b": "milijunaš",
+"c": "potjera",
+"d": "kolo sreće",
+"t": "d"
+},
+{
+"pit": "Što je nastalo kad su se udružili arhitekt Bašić, akustičar Stamać i hidrauličar Andročec?",
+"a": "Riječne tambure",
+"b": "Oceanske harfe",
+"c": "Morske orgulje",
+"d": "Jezerske frule",
+"t": "c"
+},
+{
+"pit": "Gdje se događa slavna scena u kojoj Leo i Kate zajedno "lete"?",
+"a": "za kormilom",
+"b": "na pramcu",
+"c": "na krmi",
+"d": "na potpalublju",
+"t": "b"
+},
+{
+"pit": "Koji se božićni suhi kolač pred kraj "zarumeni" ekstraktom od jagode ili maline?",
+"a": "lubeničice",
+"b": "breskvice",
+"c": "jagodice",
+"d": "trešnjice",
+"t": "b"
+},
+{
+"pit": "Onaj tko ima "putra na glavi", ako ima pravde, kad-tad će biti uhvačen s čime?",
+"a": "s glavom u torbi",
+"b": "s glavom u oblacima",
+"c": "s prstima u pekmezu",
+"d": "s grlom u jagodama",
+"t": "c"
+},
+{
+"pit": "Kako su svojedobno nazvane, dotad nepoznate, Rontgenove zrake?",
+"a": "q-zrake",
+"b": "w-zrake",
+"c": "y-zrake",
+"d": "x-zrake",
+"t": "d"
+},
+{
+"pit": "Čg nm vm ptnj?",
+"a": "samoglasnika",
+"b": "palatala",
+"c": "suglasnika",
+"d": "interpunkcije",
+"t": "a"
+},
+{
+"pit": "Kako se u karateu zove niz koraka, blokada i udaraca u borbi protiv zamišljenog protivnika?",
+"a": "kata",
+"b": "komba",
+"c": "ita",
+"d": "rina",
+"t": "a"
+},
+{
+"pit": "QWERTY.. Kako dalje?",
+"a": "HJKL",
+"b": "UIOP",
+"c": "ASDF",
+"d": "VBNM",
+"t": "b"
+}
+]
+

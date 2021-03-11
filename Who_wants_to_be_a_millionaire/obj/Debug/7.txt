@@ -1,0 +1,83 @@
+[
+{
+"pit": "Šola i ekipa su 2003. postali svjetski rukometni prvaci u...",
+"a": "Francuskoj",
+"b": "Islandu",
+"c": "Portugalu",
+"d": "Argentini",
+"t": "c"
+},
+{
+"pit": "Najznačajniji hrvatski kipar i graditelj u 15. stoljeću, vremenu u kojem je gotički stil zamijenio renesansu, bio je...",
+"a": "Juraj Dalmatinac",
+"b": "Joža Zagorec",
+"c": "Jura Podravec",
+"d": "Jura Ličanin",
+"t": "a"
+},
+{
+"pit": "Što nije oznaka niti jedne inačice operativnog sustava Windows?",
+"a": "98",
+"b": "2000",
+"c": "95",
+"d": "89",
+"t": "d"
+},
+{
+"pit": "Mina u grafitnoj olovci po svom je kemijskom sastavu uglavnom sačinjena od...",
+"a": "dušika",
+"b": "kisika",
+"c": "vodika",
+"d": "ugljika",
+"t": "d"
+},
+{
+"pit": "Gajde su glazbeni instrument karakterističan za...",
+"a": "Irsku",
+"b": "Škotsku",
+"c": "Island",
+"d": "Švedsku",
+"t": "b"
+},
+{
+"pit": "Koja je od navedenih riba slatkovodna?",
+"a": "orada",
+"b": "kovač",
+"c": "linjak",
+"d": "srdela",
+"t": "c"
+},
+{
+"pit": "Kinologija je znanost o...",
+"a": "Kinezima",
+"b": "kino predstavama",
+"c": "psima",
+"d": "povijesti Kine",
+"t": "c"
+},
+{
+"pit": "Čime se svira ksilofon?",
+"a": "udaraljkama",
+"b": "trzalicom",
+"c": "gudalom",
+"d": "prstima",
+"t": "a"
+},
+{
+"pit": "Prvi zvučni film snimljen 1927. godine poznat je pod naslovom Pjevač...",
+"a": "jazza",
+"b": "hip-hop",
+"c": "šlagera",
+"d": "rock and rolla",
+"t": "a"
+},
+{
+"pit": "Koja je najugroženija životinja Jadranskog mora, zaštićena zakonom o zaštiti prirode?",
+"a": "sredozemna medvjedica",
+"b": "tuna",
+"c": "jadranska lignja",
+"d": "galeb",
+"t": "a"
+}
+]
+

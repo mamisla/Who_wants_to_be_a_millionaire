@@ -1,0 +1,51 @@
+[
+{
+"pit": "Na koji se prirodni satelit 2005. uspješno spustila svemirska letjelica?",
+"a": "na Triton",
+"b": "na Ganimed",
+"c": "na Fobos",
+"d": "na Titan",
+"t": "d"
+},
+{
+"pit": "Kožni kalus, tilom ili...",
+"a": "žulj",
+"b": "zanoktica",
+"c": "modrica",
+"d": "akna",
+"t": "a"
+},
+{
+"pit": "Što je po tvrdoći gotovo jednako dijamantu?",
+"a": "borov nitrid",
+"b": "turmalin",
+"c": "pirit",
+"d": "antimonov trioksid",
+"t": "a"
+},
+{
+"pit": "Tko je skladao operu "Kavalir s ružom" koja se spominje u "Oficiru s ružom"?",
+"a": "Carl Maria von Weber",
+"b": "Richard Strauss",
+"c": "Jacques Offenbach",
+"d": "Anton Bruckner",
+"t": "b"
+},
+{
+"pit": "Popevku "V jutro rano se ja stanem" prepoznajemo u melodiji čije himne?",
+"a": "talijanske",
+"b": "njemačke",
+"c": "francuske",
+"d": "hrvatske",
+"t": "b"
+},
+{
+"pit": "U kojem je umjetničkom stilu izveden kipić Oscara?",
+"a": "u art decou",
+"b": "u art naifu",
+"c": "u art brutu",
+"d": "u art nouveauu",
+"t": "a"
+}
+]
+

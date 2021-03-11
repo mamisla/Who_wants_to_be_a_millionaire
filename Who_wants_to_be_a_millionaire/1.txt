@@ -1,18 +1,83 @@
 [
 {
-"pit": "Tko je legenda?",
-"a": "Ja",
-"b": "Ti",
-"c": "Mi",
-"d": "Svi",
+"pit": "Na čemu je djevojka koja čeka rezultate mature?",
+"a": "na iglama",
+"b": "na pribadačama",
+"c": "na trnju",
+"d": "na koprivama",
 "t": "a"
 },
 {
-"pit": "asdfasdf",
-"a": "asdfasd",
-"b": "asdfasdf",
-"c": "asdfasdf",
-"d": "asfsadf",
+"pit": "Kakvu je borbu "popularizirao" Cervantes?",
+"a": "s vjetrenjačama",
+"b": "prsa o prsa",
+"c": "za opstanak",
+"d": "rame uz rame",
+"t": "a"
+},
+{
+"pit": "Kakva se slova koriste u boldanom dijelu teksta?",
+"a": "sirova",
+"b": "masna",
+"c": "trula",
+"d": "pohana",
+"t": "b"
+},
+{
+"pit": "Koja nas kratica "tjera" da nešto hitno obavimo?",
+"a": "LOL",
+"b": "BTW",
+"c": "ASAP",
+"d": "OMG",
 "t": "c"
+},
+{
+"pit": "Što je mladić dobio od djevojke koja je odbila njegov poziv na spoj?",
+"a": "teglicu",
+"b": "zdjelicu",
+"c": "čašicu",
+"d": "košaricu",
+"t": "d"
+},
+{
+"pit": "Koju "etiketu" može dobiti maslinovo ulje?",
+"a": "super djevičansko",
+"b": "turbo djevičansko",
+"c": "ekstra djevičansko",
+"d": "hiper djevičansko",
+"t": "c"
+},
+{
+"pit": "Na grbu kojeg je našeg grada alkar na galopirajućem konju?",
+"a": "Sinja",
+"b": "Solina",
+"c": "Senja",
+"d": "Slunja",
+"t": "a"
+},
+{
+"pit": "Po kojem nazivu povijest pamti 6. lipnja 1941.?",
+"a": "Dan A",
+"b": "Dan B",
+"c": "Dan C",
+"d": "Dan D",
+"t": "d"
+},
+{
+"pit": "Koliko je puta najmanji troznamenkasti prirodni broj veći od najmanjeg dvoznamenkastog prirodnog broja?",
+"a": "10 puta",
+"b": "20 puta",
+"c": "50 puta",
+"d": "100 puta",
+"t": "a"
+},
+{
+"pit": "Padao snijeg ili ne, repliku čega možemo vidjeti u Centru Mate Lovraka u Velikom Grđevcu?",
+"a": "parobroda",
+"b": "vlaka",
+"c": "traktora",
+"d": "bicikla",
+"t": "b"
 }
 ]
+

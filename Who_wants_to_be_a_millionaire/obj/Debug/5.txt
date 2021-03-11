@@ -1,0 +1,83 @@
+[
+{
+"pit": "Brojevi koje koristimo u svakodnevnom životu nazivaju se...?",
+"a": "mongolski brojevi",
+"b": "arapski brojevi",
+"c": "izraelski brojevi",
+"d": "latinski brojevi",
+"t": "b"
+},
+{
+"pit": "U filmu "Zlatna groznica" Charlie Chaplin servira i nevoljko jede...",
+"a": "kišobran",
+"b": "cipelu",
+"c": "buket cvijeća",
+"d": "torbu",
+"t": "b"
+},
+{
+"pit": "Koja priča ne postoji?",
+"a": "Harry Potter i kamen mudraca",
+"b": "Harry Potter i odaja tajni",
+"c": "Harry Potter i plameni pehar",
+"d": "Harry Potter i zatočenik Avalona",
+"t": "d"
+},
+{
+"pit": "Koja rijeka ne teče primorskim krajem?",
+"a": "Krka",
+"b": "Zrmanja",
+"c": "Kupa",
+"d": "Cetina",
+"t": "c"
+},
+{
+"pit": "Strojopis također nazivamo i...",
+"a": "monografija",
+"b": "taktilografija",
+"c": "geografija",
+"d": "tipografija",
+"t": "b"
+},
+{
+"pit": "U "Šumi Striborovoj" snaha je...",
+"a": "guja",
+"b": "sokolica",
+"c": "žaba",
+"d": "vrana",
+"t": "a"
+},
+{
+"pit": "Od koliko se crta sastoji notno crtovlje?",
+"a": "2",
+"b": "4",
+"c": "10",
+"d": "5",
+"t": "d"
+},
+{
+"pit": "Kojeg se datuma slavi Dan planeta Zemlje?",
+"a": "29. veljače",
+"b": "22. travnja",
+"c": "15. svibnja",
+"d": "31. prosinca",
+"t": "b"
+},
+{
+"pit": "Divovska panda, danas ugrožena vrsta medvjeda, vrlo je izbirljiva "za stolom". Ona se hrani isključivo...",
+"a": "eukaliptusom",
+"b": "bambusom",
+"c": "drugim medvjedima",
+"d": "kukcima",
+"t": "b"
+},
+{
+"pit": "Salinometrom se mjeri...",
+"a": "toplina vode",
+"b": "slanost vode",
+"c": "gustoća vode",
+"d": "vlažnost vode",
+"t": "b"
+}
+]
+

@@ -1,0 +1,83 @@
+[
+{
+"pit": "Američki grad i vojna baza u kojoj navodno pohranjeni ostaci vanzemaljaca zove se...",
+"a": "Roosewelt",
+"b": "Rosewell",
+"c": "Rosmarine",
+"d": "Roositza",
+"t": "b"
+},
+{
+"pit": "Ozon je zapravo samo jedan oblik...",
+"a": "dušika",
+"b": "kisika",
+"c": "ugljika",
+"d": "vodika",
+"t": "b"
+},
+{
+"pit": "Prvo područje u svijetu koje je proglašeno nacionalnim parkom je...",
+"a": "Yellowstone",
+"b": "Serenghetti",
+"c": "Plitvička jezera",
+"d": "Aljaska",
+"t": "a"
+},
+{
+"pit": "Svima je poznato da su devine grbe zapravo nakupine...",
+"a": "vode",
+"b": "masnoća",
+"c": "zraka",
+"d": "soli",
+"t": "b"
+},
+{
+"pit": "Ratko Milić poznatiji je pod imenom...",
+"a": "Božo",
+"b": "Pavle",
+"c": "Dugi",
+"d": "Koko",
+"t": "d"
+},
+{
+"pit": "Koju knjigu nije napisao Jules Verne?",
+"a": "20 000 milja pod morem",
+"b": "Put u središte Zemlje",
+"c": "Krstarenje od pola do pola",
+"d": "Dvorac u Karpatima",
+"t": "c"
+},
+{
+"pit": "Proglašavajući Afroditu najljepšom božicom, Paris joj je darovao zlatnu...",
+"a": "krunu",
+"b": "ribicu",
+"c": "narukvicu",
+"d": "jabuku",
+"t": "d"
+},
+{
+"pit": "Sirius je najsjajnija zvijezda u zviježđu...",
+"a": "Veliki pas",
+"b": "Mala gusjenica",
+"c": "Veliki medvjed",
+"d": "Debela sova",
+"t": "a"
+},
+{
+"pit": "Uz splitski "Hajduk"m najpoznatiji klub u Hrbatskoj dolazi iz Zagreba. U svojoj povijesti je promijenio nekoliko imena. Koje od navedenih nikada nije nosio?",
+"a": "NK "Croatia"",
+"b": "NK "Hašk-Građanski"",
+"c": "NK "Cibalia"",
+"d": "NK "Dinamo"",
+"t": "c"
+},
+{
+"pit": "Starosjedioci Novog Zelanda, narod istetoviranih lica, su...",
+"a": "Maori",
+"b": "Aborudžini",
+"c": "Bušmani",
+"d": "Mongoli",
+"t": "a"
+}
+]
+

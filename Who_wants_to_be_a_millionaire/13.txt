@@ -1,0 +1,51 @@
+[
+{
+"pit": "Badecimer je kupaonica, šlafcimer spavaonica, a špajscimer blagovaonica. Što je rumplcimer?",
+"a": "lođa",
+"b": "budoar",
+"c": "toalet",
+"d": "ropotarnica",
+"t": "d"
+},
+{
+"pit": "Prodavač koji uporno ističe oznaku Full HD nastoji prodati televizor koje približne razlučivosti?",
+"a": "1,1 megapiksel",
+"b": "2,1 megapiksel",
+"c": "3,1 megapiksel",
+"d": "4,1 megapiksel",
+"t": "b"
+},
+{
+"pit": "Koliko je naših nobelovaca rođeno na području današnje Hrvatske?",
+"a": "nijedan",
+"b": "jedan",
+"c": "dvojica",
+"d": "trojica",
+"t": "b"
+},
+{
+"pit": "Koja je riba simbol Parka prirode Lastovsko otočje?",
+"a": "kovač",
+"b": "lokarda",
+"c": "škrpina",
+"d": "tuna",
+"t": "a"
+},
+{
+"pit": "Koja predstava praizvedena 1952. godine tradicionalno završava molbom publici da nikome ne otkrije identitet ubojice?",
+"a": "Mišolovka",
+"b": "Tko se boji Virginije Woolf?",
+"c": "Smrt trgovačkog putnika",
+"d": "Buba u uhu",
+"t": "a"
+},
+{
+"pit": "Kako Stojko Vranković u posljednjim sekundama finala Eurolige '96. donosi pobjedu Panathinaikosu?",
+"a": "izborenim prekršajem",
+"b": "tricom s centra",
+"c": "bananom",
+"d": "slobodnim bacanjima",
+"t": "c"
+}
+]
+

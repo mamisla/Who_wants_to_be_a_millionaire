@@ -1,0 +1,51 @@
+[
+{
+"pit": "Koji se metal ušuljao u srce vitamina B12?",
+"a": "krom",
+"b": "nikal",
+"c": "kobalt",
+"d": "cink",
+"t": "c"
+},
+{
+"pit": "Kamo se 8 vozača zaputilo iz Zagreba u prvoj hrvatskoj automobilističkoj utrci 8. rujna 1912.?",
+"a": "u Karlovac",
+"b": "u Varaždin",
+"c": "u Sisak",
+"d": "u Samobor",
+"t": "b"
+},
+{
+"pit": "Tko je kao dvanaestogodišnji dječak prekinuo školovanje i krenuo svojim putem?",
+"a": "Henry Ford",
+"b": "Samuel Morse",
+"c": "Nikola Tesla",
+"d": "Thomas Alva Edison",
+"t": "d"
+},
+{
+"pit": "Koliko je ukupno krugova Joshua Cheptegei istrčao kad je srušio svjetski rekord?",
+"a": "10 krugova",
+"b": "15 krugova",
+"c": "20 krugova",
+"d": "25 krugova",
+"t": "d"
+},
+{
+"pit": "Koji je uobičajeni naziv križa na zastavama Švicarske Konfederacije i Kraljevine Tonge?",
+"a": "grčki križ",
+"b": "keltski križ",
+"c": "malteški križ",
+"d": "ruski križ",
+"t": "a"
+},
+{
+"pit": "Odakle je vodu crpio najbolje očuvani rimski akvedukt u Hrvatskoj?",
+"a": "iz Butonige",
+"b": "iz Jadra",
+"c": "iz Rječine",
+"d": "iz Studve",
+"t": "b"
+}
+]
+

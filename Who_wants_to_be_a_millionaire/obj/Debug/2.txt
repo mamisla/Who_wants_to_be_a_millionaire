@@ -1,18 +1,83 @@
 [
 {
-"pit": "Tko je dragi?",
-"a": "picka",
-"b": "legenda",
-"c": "conjek",
-"d": "prikriveni cevap",
+"pit": "Što "uvijek nađe put"?",
+"a": "struja",
+"b": "voda",
+"c": "grijanje",
+"d": "telefon",
+"t": "b"
+},
+{
+"pit": "Koje je rješenje jednadžbe x:4=4:x u skupu prirodnih brojeva?",
+"a": "x=1",
+"b": "x=2",
+"c": "x=3",
+"d": "x=4",
 "t": "d"
 },
 {
-"pit": "rtzurt",
-"a": "rtrtzu",
-"b": "urur",
-"c": "ururururu",
-"d": "rtzu",
+"pit": "O kome govori dokumentarna serija "Mala zemlja, veliki kanal"?",
+"a": "o Egiptu",
+"b": "o Panami",
+"c": "o Hrvatskoj",
+"d": "o Njemačkoj",
 "t": "b"
+},
+{
+"pit": "Na čemu će uzdahnuti turist koji za prolazak ispod venecijanskog Mosta uzdaha "iskešira" 80 eura?",
+"a": "na gondoli",
+"b": "na falkuši",
+"c": "na batani",
+"d": "na gajeti",
+"t": "a"
+},
+{
+"pit": "Kojim se kukcima "upali lampica" zbog pigmenta luciferina i enzima luciferaze?",
+"a": "stjenicama",
+"b": "krijesnicama",
+"c": "bogomoljkama",
+"d": "zlaticama",
+"t": "b"
+},
+{
+"pit": "Ako je VI = 6, koliko je MI?",
+"a": "1001",
+"b": "101",
+"c": "11",
+"d": "1",
+"t": "a"
+},
+{
+"pit": "Kamo neće "oružje" kojim se služe Zeus, Thor i sveti Ilija?",
+"a": "u koprive",
+"b": "u gloginje",
+"c": "u žalfije",
+"d": "u lavande",
+"t": "a"
+},
+{
+"pit": "Čime mašu policajci da zaustave vozače?",
+"a": "bananom",
+"b": "čokoladom",
+"c": "lizalicom",
+"d": "sladoledom",
+"t": "c"
+},
+{
+"pit": "Čime se bavi lokalni mafijaš koji vlasniku restorana nudi "zaštitu"?",
+"a": "palicom",
+"b": "lopticom",
+"c": "mrežicom",
+"d": "reketom",
+"t": "d"
+},
+{
+"pit": "Koja je starozavjetna mudrosna knjiga remek-djelo hebrejske ljubavne lirike?",
+"a": "Novela nad novelama",
+"b": "Feljton nad feljtonima",
+"c": "Pjesma nad pjesmama",
+"d": "Roman nad romanima",
+"t": "c"
 }
 ]
+

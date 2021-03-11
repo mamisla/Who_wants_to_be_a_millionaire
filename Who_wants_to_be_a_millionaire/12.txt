@@ -1,0 +1,51 @@
+[
+{
+"pit": "Koji čovjek od pera nije Sicilijanac?",
+"a": "Salvatore Quasimodo",
+"b": "Mario Puzo",
+"c": "Luigi Pirandello",
+"d": "Giovanni Verga",
+"t": "d"
+},
+{
+"pit": "Koja je najveća dopuštena brzina kretanja na našim autocestama?",
+"a": "27 m/s",
+"b": "30 m/s",
+"c": "33 m/s",
+"d": "36 m/s",
+"t": "d"
+},
+{
+"pit": "Koji sir ne pripada skupini plavih sireva?",
+"a": "camembert",
+"b": "gorgonzola",
+"c": "roquefort",
+"d": "stilton",
+"t": "a"
+},
+{
+"pit": "Iza Tvornice glinice u Obrovcu ostala su dva bazena za odlaganje...",
+"a": "crvenog mulja",
+"b": "modrog mulja",
+"c": "zelenog mulja",
+"d": "žutog mulja",
+"t": "a"
+},
+{
+"pit": "Koji film kritički govori o oduzimanju zemlje seljacima radi kolektivizacije?",
+"a": "Velika zemlja",
+"b": "Ničija zemlja",
+"c": "Nema zemlje za starce",
+"d": "Obećana zemlja",
+"t": "d"
+},
+{
+"pit": "Koji je dinosaur duž leđa imao dva reda velikih trokutastih ploča i dva para šiljaka na kraju repa?",
+"a": "diplodok",
+"b": "stegosaur",
+"c": "iguanodon",
+"d": "triceratops",
+"t": "b"
+}
+]
+
