@@ -64,11 +64,11 @@
 "t": "a"
 },
 {
-"pit": "Uz splitski "Hajduk"m najpoznatiji klub u Hrbatskoj dolazi iz Zagreba. U svojoj povijesti je promijenio nekoliko imena. Koje od navedenih nikada nije nosio?",
-"a": "NK "Croatia"",
-"b": "NK "Hašk-Građanski"",
-"c": "NK "Cibalia"",
-"d": "NK "Dinamo"",
+"pit": "Uz splitski 'Hajduk' najpoznatiji klub u Hrbatskoj dolazi iz Zagreba. U svojoj povijesti je promijenio nekoliko imena. Koje od navedenih nikada nije nosio?",
+"a": "NK 'Croatia'",
+"b": "NK 'Hašk-Građanski'",
+"c": "NK 'Cibalia'",
+"d": "NK 'Dinamo'",
 "t": "c"
 },
 {

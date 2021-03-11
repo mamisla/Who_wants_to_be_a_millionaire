@@ -22,6 +22,19 @@ namespace Who_wants_to_be_a_millionaire
         public int trenp = 1;
         public static string jsonString1 = File.ReadAllText("1.txt");
         public static string jsonString2 = File.ReadAllText("2.txt");
+        public static string jsonString3 = File.ReadAllText("3.txt");
+        public static string jsonString4 = File.ReadAllText("4.txt");
+        public static string jsonString5 = File.ReadAllText("5.txt");
+        public static string jsonString6 = File.ReadAllText("6.txt");
+        public static string jsonString7 = File.ReadAllText("7.txt");
+        public static string jsonString8 = File.ReadAllText("8.txt");
+        public static string jsonString9 = File.ReadAllText("9.txt");
+        public static string jsonString10 = File.ReadAllText("10.txt");
+        public static string jsonString11 = File.ReadAllText("11.txt");
+        public static string jsonString12 = File.ReadAllText("12.txt");
+        public static string jsonString13 = File.ReadAllText("13.txt");
+        public static string jsonString14 = File.ReadAllText("14.txt");
+        public static string jsonString15 = File.ReadAllText("15.txt");
 
         public class pitodg
         {
@@ -47,6 +60,8 @@ namespace Who_wants_to_be_a_millionaire
             this.c.Text = pitanje[p].c;
             this.d.Text = pitanje[p].d;
             toc = pitanje[p].t;
+
+            this.redni.Text = trenp.ToString();
 
             potrosen_joker_50.Visible = false;
             potrosen_joker_zovi.Visible = false;
@@ -114,7 +129,7 @@ namespace Who_wants_to_be_a_millionaire
         {
             trenp++;
 
-            if (trenp == 16) { MessageBox.Show("Ti si osvojio milju."); return; }
+            if (trenp == 16) { MessageBox.Show("Ti si osvojio milju."); obradi_krivi(); return; }
 
             Random rnd = new Random();
 
@@ -128,43 +143,43 @@ namespace Who_wants_to_be_a_millionaire
                     pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString2);
                     break;
                 case 3:
-                    pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString1);
+                    pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString3);
                     break;
                 case 4:
-                    pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString2);
+                    pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString4);
                     break;
                 case 5:
-                    pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString1);
+                    pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString5);
                     break;
                 case 6:
-                    pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString2);
+                    pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString6);
                     break;
                 case 7:
-                    pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString1);
+                    pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString7);
                     break;
                 case 8:
-                    pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString2);
+                    pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString8);
                     break;
                 case 9:
-                    pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString1);
+                    pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString9);
                     break;
                 case 10:
-                    pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString2);
+                    pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString10);
                     break;
                 case 11:
-                    pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString1);
+                    pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString11);
                     break;
                 case 12:
-                    pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString2);
+                    pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString12);
                     break;
                 case 13:
-                    pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString1);
+                    pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString13);
                     break;
                 case 14:
-                    pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString2);
+                    pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString14);
                     break;
                 case 15:
-                    pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString2);
+                    pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString15);
                     break;
                 default:
                     break;
@@ -177,6 +192,8 @@ namespace Who_wants_to_be_a_millionaire
             this.c.Text = pitanje[p].c;
             this.d.Text = pitanje[p].d;
             toc = pitanje[p].t;
+
+            this.redni.Text = trenp.ToString();
 
         }
 
@@ -200,7 +217,7 @@ namespace Who_wants_to_be_a_millionaire
             potrosen_joker_zovi.Visible = false;
             potrosen_joker_publika.Visible = false;
 
-
+            this.redni.Text = trenp.ToString();
         }
 
         private void joker50_Click(object sender, EventArgs e)

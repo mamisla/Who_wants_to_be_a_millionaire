@@ -41,6 +41,7 @@ namespace Who_wants_to_be_a_millionaire
             this.potrosen_joker_50 = new System.Windows.Forms.PictureBox();
             this.potrosen_joker_zovi = new System.Windows.Forms.PictureBox();
             this.potrosen_joker_publika = new System.Windows.Forms.PictureBox();
+            this.redni = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.joker50)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.joker_zovi)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.joker_publika)).BeginInit();
@@ -169,6 +170,15 @@ namespace Who_wants_to_be_a_millionaire
             this.potrosen_joker_publika.TabStop = false;
             this.potrosen_joker_publika.Visible = false;
             // 
+            // redni
+            // 
+            this.redni.AutoSize = true;
+            this.redni.Location = new System.Drawing.Point(44, 35);
+            this.redni.Name = "redni";
+            this.redni.Size = new System.Drawing.Size(35, 13);
+            this.redni.TabIndex = 11;
+            this.redni.Text = "label1";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -176,6 +186,7 @@ namespace Who_wants_to_be_a_millionaire
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.redni);
             this.Controls.Add(this.potrosen_joker_publika);
             this.Controls.Add(this.potrosen_joker_zovi);
             this.Controls.Add(this.potrosen_joker_50);
@@ -196,6 +207,7 @@ namespace Who_wants_to_be_a_millionaire
             ((System.ComponentModel.ISupportInitialize)(this.potrosen_joker_zovi)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.potrosen_joker_publika)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -212,6 +224,7 @@ namespace Who_wants_to_be_a_millionaire
         private System.Windows.Forms.PictureBox potrosen_joker_50;
         private System.Windows.Forms.PictureBox potrosen_joker_zovi;
         private System.Windows.Forms.PictureBox potrosen_joker_publika;
+        private System.Windows.Forms.Label redni;
     }
 }
 

@@ -1,6 +1,6 @@
 [
 {
-"pit": "Što "uvijek nađe put"?",
+"pit": "Što 'uvijek nađe put'?",
 "a": "struja",
 "b": "voda",
 "c": "grijanje",
@@ -16,7 +16,7 @@
 "t": "d"
 },
 {
-"pit": "O kome govori dokumentarna serija "Mala zemlja, veliki kanal"?",
+"pit": "O kome govori dokumentarna serija 'Mala zemlja, veliki kanal'?",
 "a": "o Egiptu",
 "b": "o Panami",
 "c": "o Hrvatskoj",
@@ -24,7 +24,7 @@
 "t": "b"
 },
 {
-"pit": "Na čemu će uzdahnuti turist koji za prolazak ispod venecijanskog Mosta uzdaha "iskešira" 80 eura?",
+"pit": "Na čemu će uzdahnuti turist koji za prolazak ispod venecijanskog Mosta uzdaha 'iskešira' 80 eura?",
 "a": "na gondoli",
 "b": "na falkuši",
 "c": "na batani",
@@ -32,7 +32,7 @@
 "t": "a"
 },
 {
-"pit": "Kojim se kukcima "upali lampica" zbog pigmenta luciferina i enzima luciferaze?",
+"pit": "Kojim se kukcima 'upali lampica' zbog pigmenta luciferina i enzima luciferaze?",
 "a": "stjenicama",
 "b": "krijesnicama",
 "c": "bogomoljkama",
@@ -48,7 +48,7 @@
 "t": "a"
 },
 {
-"pit": "Kamo neće "oružje" kojim se služe Zeus, Thor i sveti Ilija?",
+"pit": "Kamo neće 'oružje' kojim se služe Zeus, Thor i sveti Ilija?",
 "a": "u koprive",
 "b": "u gloginje",
 "c": "u žalfije",
@@ -64,7 +64,7 @@
 "t": "c"
 },
 {
-"pit": "Čime se bavi lokalni mafijaš koji vlasniku restorana nudi "zaštitu"?",
+"pit": "Čime se bavi lokalni mafijaš koji vlasniku restorana nudi 'zaštitu'?",
 "a": "palicom",
 "b": "lopticom",
 "c": "mrežicom",

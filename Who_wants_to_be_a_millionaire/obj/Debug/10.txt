@@ -24,7 +24,7 @@
 "t": "a"
 },
 {
-"pit": "Koji je "starodrevni grad", kako ga opisuje Eugen Kumičić, "od grada Karlovca tri sata hoda put sjeverozapada"?",
+"pit": "Koji je 'starodrevni grad', kako ga opisuje Eugen Kumičić, 'od grada Karlovca tri sata hoda put sjeverozapada'?",
 "a": "Nehaj",
 "b": "Klis",
 "c": "Ozalj",
@@ -40,7 +40,7 @@
 "t": "d"
 },
 {
-"pit": "Kad bi talijanska čizma slomila svoju "petu", koji bi grad "završio" na otoku?",
+"pit": "Kad bi talijanska čizma slomila svoju 'petu', koji bi grad 'završio' na otoku?",
 "a": "Perugia",
 "b": "Lecce",
 "c": "Messina",

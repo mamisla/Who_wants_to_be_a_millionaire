@@ -24,7 +24,7 @@
 "t": "a"
 },
 {
-"pit": "Tko je skladao operu "Kavalir s ružom" koja se spominje u "Oficiru s ružom"?",
+"pit": "Tko je skladao operu 'Kavalir s ružom' koja se spominje u 'Oficiru s ružom'?",
 "a": "Carl Maria von Weber",
 "b": "Richard Strauss",
 "c": "Jacques Offenbach",
@@ -32,7 +32,7 @@
 "t": "b"
 },
 {
-"pit": "Popevku "V jutro rano se ja stanem" prepoznajemo u melodiji čije himne?",
+"pit": "Popevku 'V jutro rano se ja stanem' prepoznajemo u melodiji čije himne?",
 "a": "talijanske",
 "b": "njemačke",
 "c": "francuske",

@@ -48,7 +48,7 @@
 "t": "d"
 },
 {
-"pit": "Kojeg su hrvatskog kneza Mlečani nazvali "najstrašnijim knezom Slavena"?",
+"pit": "Kojeg su hrvatskog kneza Mlečani nazvali 'najstrašnijim knezom Slavena'?",
 "a": "Branimira",
 "b": "Tomislava",
 "c": "Domagoja",
@@ -56,7 +56,7 @@
 "t": "c"
 },
 {
-"pit": "Poznati agenti iz serije"Dosjei X" zvali su se...",
+"pit": "Poznati agenti iz serije 'Dosjei X' zvali su se...",
 "a": "Dana Scully i Fox Mulder",
 "b": "Dana Mulder i Fox Scully",
 "c": "Dana Fox i Scully Muldeer",
@@ -64,7 +64,7 @@
 "t": "a"
 },
 {
-"pit": Iz kojeg grada potječe poznati hrvatski skladatelj Ivan pl. Zajc, autor najpoznatije hrvatske opere "Nikola Šubić Zrinski"?",
+"pit": "Iz kojeg grada potječe poznati hrvatski skladatelj Ivan pl. Zajc, autor najpoznatije hrvatske opere 'Nikola Šubić Zrinski'?",
 "a": "Splita",
 "b": "Varaždina",
 "c": "Đakova",
@@ -72,7 +72,7 @@
 "t": "d"
 },
 {
-"pit": "Kojoj je bojni geslo "In hoc signo vinces"?",
+"pit": "Kojoj je bojni geslo 'In hoc signo vinces'?",
 "a": "Gromovi",
 "b": "Pauci",
 "c": "Tigrovi",

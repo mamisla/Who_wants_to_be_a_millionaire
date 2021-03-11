@@ -16,7 +16,7 @@
 "t": "c"
 },
 {
-"pit": "Koji se grad ponosi svojim sloganom "What happens here, stays here"?",
+"pit": "Koji se grad ponosi svojim sloganom 'What happens here, stays here'?",
 "a": "Las Vegas",
 "b": "Los Angeles",
 "c": "San Francisco",
@@ -24,7 +24,7 @@
 "t": "a"
 },
 {
-"pit": "Koje dvije životinje u likovnim rječnicima imaju "svoju" perspektivu?",
+"pit": "Koje dvije životinje u likovnim rječnicima imaju 'svoju' perspektivu?",
 "a": "cvrčak i mrav",
 "b": "žaba i ptica",
 "c": "miš i šišmiš",
@@ -40,7 +40,7 @@
 "t": "b"
 },
 {
-"pit": "Što Gazda u "Bitangama i princezama" posjeduje, Kazo i Luce vode, a Erotoman posjećuje?",
+"pit": "Što Gazda u 'Bitangama i princezama' posjeduje, Kazo i Luce vode, a Erotoman posjećuje?",
 "a": "gliptoteku",
 "b": "pinakoteku",
 "c": "biblioteku",
@@ -64,7 +64,7 @@
 "t": "b"
 },
 {
-"pit": "Dovršite rečenicu kojom počinje roman "Petar Pan"!"Sva djeca, osim jednog djeteta,..."",
+"pit": "Dovršite rečenicu kojom počinje roman 'Petar Pan'! 'Sva djeca, osim jednog djeteta,...'",
 "a": "...odrastu",
 "b": "...poslušaju",
 "c": "...zaspu",

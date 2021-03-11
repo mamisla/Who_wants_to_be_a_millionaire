@@ -8,7 +8,7 @@
 "t": "d"
 },
 {
-"pit": "U koji je izraz Gundulić sažeo stihove "tko bi gori, eto je doli, a tko doli gore ustaje"?",
+"pit": "U koji je izraz Gundulić sažeo stihove 'tko bi gori, eto je doli, a tko doli gore ustaje'?",
 "a": "najslabija karika",
 "b": "milijunaš",
 "c": "potjera",
@@ -24,7 +24,7 @@
 "t": "c"
 },
 {
-"pit": "Gdje se događa slavna scena u kojoj Leo i Kate zajedno "lete"?",
+"pit": "Gdje se događa slavna scena u kojoj Leo i Kate zajedno 'lete'?",
 "a": "za kormilom",
 "b": "na pramcu",
 "c": "na krmi",
@@ -32,7 +32,7 @@
 "t": "b"
 },
 {
-"pit": "Koji se božićni suhi kolač pred kraj "zarumeni" ekstraktom od jagode ili maline?",
+"pit": "Koji se božićni suhi kolač pred kraj 'zarumeni' ekstraktom od jagode ili maline?",
 "a": "lubeničice",
 "b": "breskvice",
 "c": "jagodice",
@@ -40,7 +40,7 @@
 "t": "b"
 },
 {
-"pit": "Onaj tko ima "putra na glavi", ako ima pravde, kad-tad će biti uhvačen s čime?",
+"pit": "Onaj tko ima 'putra na glavi', ako ima pravde, kad-tad će biti uhvačen s čime?",
 "a": "s glavom u torbi",
 "b": "s glavom u oblacima",
 "c": "s prstima u pekmezu",

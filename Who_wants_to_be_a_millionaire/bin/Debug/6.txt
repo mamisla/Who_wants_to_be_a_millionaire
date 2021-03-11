@@ -40,7 +40,7 @@
 "t": "b"
 },
 {
-"pit": "Koja su dva planeta, barem po udaljenosti od Sunca, prvi Zemljini "susjedi"?",
+"pit": "Koja su dva planeta, barem po udaljenosti od Sunca, prvi Zemljini 'susjedi'?",
 "a": "Venera i Jupiter",
 "b": "Merkur i Mars",
 "c": "Venera i Mars",

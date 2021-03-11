@@ -8,7 +8,7 @@
 "t": "b"
 },
 {
-"pit": "U filmu "Zlatna groznica" Charlie Chaplin servira i nevoljko jede...",
+"pit": "U filmu 'Zlatna groznica' Charlie Chaplin servira i nevoljko jede...",
 "a": "kišobran",
 "b": "cipelu",
 "c": "buket cvijeća",
@@ -40,7 +40,7 @@
 "t": "b"
 },
 {
-"pit": "U "Šumi Striborovoj" snaha je...",
+"pit": "U 'Šumi Striborovoj' snaha je...",
 "a": "guja",
 "b": "sokolica",
 "c": "žaba",
@@ -64,7 +64,7 @@
 "t": "b"
 },
 {
-"pit": "Divovska panda, danas ugrožena vrsta medvjeda, vrlo je izbirljiva "za stolom". Ona se hrani isključivo...",
+"pit": "Divovska panda, danas ugrožena vrsta medvjeda, vrlo je izbirljiva 'za stolom'. Ona se hrani isključivo...",
 "a": "eukaliptusom",
 "b": "bambusom",
 "c": "drugim medvjedima",

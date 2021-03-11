@@ -8,7 +8,7 @@
 "t": "a"
 },
 {
-"pit": "Kakvu je borbu "popularizirao" Cervantes?",
+"pit": "Kakvu je borbu 'popularizirao' Cervantes?",
 "a": "s vjetrenjačama",
 "b": "prsa o prsa",
 "c": "za opstanak",
@@ -24,7 +24,7 @@
 "t": "b"
 },
 {
-"pit": "Koja nas kratica "tjera" da nešto hitno obavimo?",
+"pit": "Koja nas kratica 'tjera' da nešto hitno obavimo?",
 "a": "LOL",
 "b": "BTW",
 "c": "ASAP",
@@ -40,7 +40,7 @@
 "t": "d"
 },
 {
-"pit": "Koju "etiketu" može dobiti maslinovo ulje?",
+"pit": "Koju 'etiketu' može dobiti maslinovo ulje?",
 "a": "super djevičansko",
 "b": "turbo djevičansko",
 "c": "ekstra djevičansko",
