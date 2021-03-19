@@ -271,7 +271,6 @@ namespace Who_wants_to_be_a_millionaire
         {
             Random rnd = new Random();
 
-            trenp = 1;
             var pitanje = JsonSerializer.Deserialize<List<pitodg>>(jsonString1);
 
             int p = rnd.Next(pitanje.Count());
@@ -302,6 +301,7 @@ namespace Who_wants_to_be_a_millionaire
             {
                 MessageBox.Show("Osvojili ste 100 kn.");
             }
+            trenp = 1;
         }
 
         private void joker50_Click(object sender, EventArgs e)
