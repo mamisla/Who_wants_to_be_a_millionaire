@@ -74,8 +74,6 @@ namespace Who_wants_to_be_a_millionaire
 
             obojaj();
 
-            
-
         }
 
         private void obojaj()
@@ -291,6 +289,19 @@ namespace Who_wants_to_be_a_millionaire
 
             this.redni.Text = trenp.ToString();
             obojaj();
+
+            if (trenp > 10)
+            {
+                MessageBox.Show("Osvojili ste 32000 kn.");
+            }
+            else if (trenp > 5)
+            {
+                MessageBox.Show("Osvojili ste 1000 kn.");
+            }
+            else
+            {
+                MessageBox.Show("Osvojili ste 100 kn.");
+            }
         }
 
         private void joker50_Click(object sender, EventArgs e)
@@ -403,7 +414,6 @@ namespace Who_wants_to_be_a_millionaire
                     if (b == max) b = temp;
                     if (c == max) c = temp;
                     if (a == max) a = temp;
-
                 }
             }
         }
